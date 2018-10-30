@@ -1,8 +1,0 @@
-file         :display
-
-function     :main
-open         :display
-push         :'Hello World
-write        :display
-newline      :display
-return       :'OK

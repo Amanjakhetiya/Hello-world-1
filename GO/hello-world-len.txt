@@ -1,8 +1,0 @@
-package main
-
-import "fmt"
-
-func main() {
-	words := "Hello Word"
-	fmt.Printf("len(%s): %d", words, len(words))
-}

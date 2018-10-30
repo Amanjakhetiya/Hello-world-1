@@ -1,1 +1,0 @@
-println("Merhaba, Dünya!")

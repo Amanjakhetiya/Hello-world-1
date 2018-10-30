@@ -1,1 +1,0 @@
-simple code to display hello world in python language

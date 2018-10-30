@@ -1,5 +1,0 @@
-#sending a pull request
-def hello
-  puts "Hello World!"
-  puts "My first Hactoberfest"
-end
